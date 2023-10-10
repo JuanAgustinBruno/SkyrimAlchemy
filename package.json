@@ -1,0 +1,19 @@
+{
+  "name": "alchemyskyrim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanAgustinBruno/SkyrimAlchemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanAgustinBruno/SkyrimAlchemy/issues"
+  },
+  "homepage": "https://github.com/JuanAgustinBruno/SkyrimAlchemy#readme"
+}
